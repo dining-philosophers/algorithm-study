@@ -1,14 +1,14 @@
 ---
-name: coding test issue template
-about: 코테 문제 풀이 템플릿
-title: "[문제_풀이_사이트][레벨] 문제_제목"
-labels: 문제 풀이
+name: backjoon issue template
+about: 백준 문제 풀이 템플릿
+title: "[백준][티어?] 제목"
+labels: 문제 풀이, 백준
 assignees: ASak1104, Will-Big
 
 ---
 
-## 문제_풀이_사이트 연습 문제
+## 백준 연습 문제
 
-- 문제  섹션(파트)
+- 알고리즘 분류 (생략 가능)
 
-- [레벨] 문제_제목 [(link)]($url)
+- [번호] 제목 [(link)](url)

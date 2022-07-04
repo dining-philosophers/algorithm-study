@@ -9,6 +9,6 @@ assignees: ASak1104, Will-Big
 
 ## 프로그래머스 연습 문제
 
-- 섹션(파트)
+- 섹션(파트) (생략 가능)
 
 - [LV?] 제목 [(link)](url)
