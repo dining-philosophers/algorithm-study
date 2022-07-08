@@ -45,7 +45,7 @@ ll func(vector<char> pri, vector<ll> num, vector<char> op)
         }
         idx++;
     }
-  	// 반드시 0 번째 요소가 남게 되므로(피연산자 수 + 1 == 연산자 수) 이를 최종 값으로 반환
+  	// 반드시 0 번째 요소가 남게 되므로(피연산자 수 - 1 == 연산자 수) 이를 최종 값으로 반환
     return num[0] > 0 ? num[0] : -num[0];
 }
 
